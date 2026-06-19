@@ -3,11 +3,13 @@
 # Basic setup:
 0. Find a way to install this extension to your browser (its unsigned, builds signed for different browsers will follow)
 1. On an item entry on myfigurecollection.com, press the "Copy JSON" button that was added by the extension. You now have the stringified JSON object in in your clipboard.
+<img src="./examples/Example_04.png" width="300px" />
 2. Click the extension icon (might need to pin the extension to your toolbar so it shows up), and click the top left button to paste the data.
 3. Rinse and repeat 1. and 2. for all figures/items you want to have in your dasboard. Switch between them by clicking on them on the left.
 4. You can delete entries by right clicking on them in the left panel, and clicking delete in the menu that shows up.
 
 # Advanced Search:
+<img src="./examples/Example_02.png" width="600px"/>
 Just select the figure you want to search, click the text you want to add to your search bar, and then click on the search button you want (Google, Mercari, Suruga-ya, Yahoo Auctions Japan (Buyee), custom button)
 The custom button can, as the name suggests, be customized. Just click the pencil symbol to show the editing fields.
 
