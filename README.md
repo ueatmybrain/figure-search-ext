@@ -1,3 +1,5 @@
+![Dashboard](./examples/Example_01.png)
+
 # Basic setup:
 0. Find a way to install this extension to your browser (its unsigned, builds signed for different browsers will follow)
 1. On an item entry on myfigurecollection.com, press the "Copy JSON" button that was added by the extension. You now have the stringified JSON object in in your clipboard.
